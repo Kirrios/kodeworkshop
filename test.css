@@ -6,3 +6,8 @@ h1{
     font-size: 50px;
     background-color: transparent;
 }
+
+.billede{
+    width: 30px;
+    height: auto;
+}
