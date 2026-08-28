@@ -1,3 +1,8 @@
 *{
-    background-color: #08eaed;
+    background-color: #08eaed;   
+}
+h1{
+    font-family: 'arial';
+    font-size: 50px;
+    background-color: transparent;
 }
